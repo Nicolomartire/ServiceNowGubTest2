@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" db_object_id="9b94eafcc379a1102c9d93777d013138" extends="chg_policy" label="Política de Alteração" max_length="40" name="u_testing_2" type="collection"/>
+</database>
